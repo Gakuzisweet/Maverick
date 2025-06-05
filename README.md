@@ -1,0 +1,2 @@
+# Maverick
+Maverick is a Python-based drone flight controller built on a Raspberry Pi Zero 2 W. It performs real-time orientation estimation using an IMU (MPU6050), applies a complementary filter for sensor fusion, stabilizes the drone using a PID controller, and outputs PWM signals to drive servos or ESCs. This project is designed to simulate and eventually control a 5" drone, with future expansions including GPS navigation, AI-based object tracking, and telemetry.
